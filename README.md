@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danakil-Industries
-- 👀 I’m interested in ... Electronic PPMs
+- 👀 I’m interested in ... Electronic PPMs and ultra high speed motors
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Message me via github
