@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Danakil-Industries
+An electronics hobbiest, trying to make amazing things st a low cost
 - 👀 I’m interested in ... Electronic PPMs and ultra high speed motors
 - 🌱 I’m currently learning ... EE and PPMs
 - 📫 How to reach me ... Message me via github or email me at jeffbezoslegit69@gmail.com
